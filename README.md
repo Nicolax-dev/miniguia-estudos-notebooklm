@@ -128,8 +128,9 @@ problema ele resolve na prática do desenvolvimento de software.
         
         **Estou sendo um bom professor até aqui?** O conceito de "estilo de pensamento" ficou claro ou quer que eu use uma analogia diferente?
 
-    ---
-    <br>
+        ---
+        <br>
+
 
 **📝 Nota de troubleshooting:**
 >   Nota 8
@@ -178,8 +179,8 @@ Sobre o paradigma da POO, me dê um resumo.
         
         Estou sendo um bom professor até aqui? A explicação está no ritmo certo para você?
 
-    ---
-    <br>
+        ---
+        <br>
 
 **📝 Nota de troubleshooting:**
 >   Nota 10
@@ -288,6 +289,9 @@ pilar quando eu pedir — de resto, me fale somente sobre esse pilar!
 
     **Estou sendo um bom professor até aqui**? O conceito de "esconder a complexidade e proteger o estado" ficou claro para você? [Inspirado em 224, 226].
 
+    ---
+    <br>
+
 **📝 Nota de troubleshooting:**
 >   Nota 7
 
@@ -329,6 +333,9 @@ Próximo pilar: Herança. Mesma abordagem — detalhes e analogias simples.
     2.  Quais seriam dois atributos (características) que você colocaria nessa classe mãe para evitar repetição de código?.
 
     **Estou sendo um bom professor?** Quando estiver pronto, responda ao desafio para prosseguirmos
+    
+    ---
+    <br>
 
 **📝 Nota de troubleshooting:**
 >   Nota 9
@@ -367,6 +374,8 @@ Próximo pilar: Polimorfismo. Mesma abordagem — detalhes e analogias simples.
 
     **Estou sendo um bom professor até aqui?** Quando responder, seguiremos para o nosso último pilar: a **Abstração**.
 
+    ---
+    <br>
 
 **📝 Nota de troubleshooting:**
 >   9
@@ -410,6 +419,8 @@ Próximo pilar: Abstração. Mesma abordagem — detalhes e analogias simples.
 
         **Estou sendo um bom professor até aqui?** O conceito de "filtrar a realidade de acordo com o objetivo" ficou claro ou quer que eu use outro exemplo prático?
 
+        ---
+        <br>
 
 **📝 Nota de troubleshooting:**
 >   Nota 10
@@ -462,6 +473,9 @@ Quando usar POO? Como analiso meu contexto e sei quando aplicá-la?
 
     **Estou sendo um bom professor até aqui?** O critério de escolha entre usar ou não o paradigma ficou claro?
 
+    ---
+    <br>
+
 **📝 Nota de troubleshooting:**
 > Nota 10
 
@@ -511,6 +525,8 @@ Quais são as críticas ao POO e as consequências do seu uso excessivo?
 
         **Estou sendo um bom professor até aqui?** O tom crítico ajudou a equilibrar sua visão sobre o paradigma?
 
+        ---
+        <br>
 
 **📝 Nota de troubleshooting:**
 >   Nota 10
@@ -579,6 +595,9 @@ Com base em tudo que estudamos, gere um glossário com os 10 principais conceito
         Olhando para esses 10 conceitos, você consegue identificar algum que ainda pareça um pouco "nebuloso" ou que você gostaria que eu desse mais um exemplo prático de código antes de encerrarmos?
 
         **Estou sendo um bom professor?** O glossário ajudou a consolidar tudo o que conversamos até agora?
+
+        ---
+        <br>
 
 **📝 Nota de troubleshooting:**
 >   Nota 10
